@@ -158,6 +158,7 @@ form {
   input, textarea {
     font: 1em sans-serif;
     width: 100%;
+    max-width: 760px;
     box-sizing: border-box;
     border: 1px solid #999;
   }
